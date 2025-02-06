@@ -73,7 +73,7 @@
     title("Velocity of Football against Velocity of Tennis Ball");
     xlabel("Velocity of Football");
     ylabel("Velocity of Tennis Ball");
-    plot(v1_values, v2_values, 'k-', LineWidth = 1.5);
+    plot(v1_values, v2_values, 'ko', MarkerSize = 1);
     grid();
     hold off;
 
@@ -93,6 +93,6 @@
     title("Height of Football against Height of Tennis Ball");
     xlabel("Height of Football / m");
     ylabel("Height of Tennis Ball / m");
-    plot(h1_values, h2_values, 'k-', LineWidth = 1.5);
+    plot(h1_values, h2_values, 'ko', MarkerSize = 1);
     grid();
     hold off;
