@@ -1,0 +1,51 @@
+﻿Repeat,Timestamp,Height\ cm,Height Error\ cm,Recording Number,Comments
+1,16:02,90,±0.05,P1000514,
+2,16:03,90,±0.05,P1000515,
+3,16:04,90,±0.05,P1000516,
+4,16:05,90,±0.05,P1000517,"Power supply unplugged, so actuation was slower than usual"
+5,16:06,90,±0.05,P1000518,
+1,16:13,100,±0.05,P1000519,
+2,16:16,100,±0.05,P1000520,
+3,16:18,100,±0.05,P1000521,
+4,16:19,100,±0.05,P1000522,"Recording P1000523 was repeated, as the ball went out of frame"
+5,16:21,100,±0.05,P1000524,
+1,16:23,110,±0.05,P1000525,
+2,16:24,110,±0.05,P1000526,
+3,16:25,110,±0.05,P1000527,
+4,16:26,110,±0.05,P1000528,
+5,16:28,110,±0.05,P1000529,
+1,16:33,120,±0.05,P1000530,Red ball collided with the automated release mechanism on rebound
+2,16:35,120,±0.05,P1000531,
+3,16:36,120,±0.05,P1000532,
+4,16:38,120,±0.05,P1000533,
+5,16:40,120,±0.05,P1000534,Unusually high rebound; red ball out of frame
+1,16:45,130,±0.05,P1000535,
+2,16:46,130,±0.05,P1000536,
+3,16:48,130,±0.05,P1000538,P1000537 was a camera misclick
+4,16:49,130,±0.05,P1000539,
+5,16:51,130,±0.05,P1000540,The starting orientation of the football was incorrect
+1,16:55,140,±0.05,P1000541,Unusually high rebound; red ball out of frame
+2,16:57,140,±0.05,P1000542,Red ball collided with the ceiling
+3,16:59,140,±0.05,P1000543,
+4,17:01,140,±0.05,P1000544,"Red ball briefly contacted the frame, but not with enough force to significantly change direction"
+5,17:03,140,±0.05,P1000545,Red ball collided with the ceiling
+1,17:18,80,±0.05,P1000546,
+2,17:19,80,±0.05,P1000547,Red ball collided with the automated release mechanism on rebound
+3,17:20,80,±0.05,P1000548,
+4,17:22,80,±0.05,P1000549,
+5,17:25,80,±0.05,P1000550,
+1,17:29,70,±0.05,P1000551,
+2,17:31,70,±0.05,P1000552,
+3,17:32,70,±0.05,P1000553,
+4,17:33,70,±0.05,P1000554,
+5,17:35,70,±0.05,P1000555,Red ball collided with the automated release mechanism on rebound
+1,17:38,60,±0.05,P1000556,
+2,17:39,60,±0.05,P1000557,
+3,17:41,60,±0.05,P1000558,
+4,17:42,60,±0.05,P1000559,Unusually high rebound
+5,17:43,60,±0.05,P1000560,
+1,18:06,50,±0.05,P1000561,
+2,18:08,50,±0.05,P1000562,
+3,18:09,50,±0.05,P1000563,
+4,18:10,50,±0.05,P1000564,
+5,18:11,50,±0.05,P1000565,
