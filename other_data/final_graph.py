@@ -17,9 +17,14 @@ def create_scatter_plot(csv_file):
 
     slope, intercept, r_value, p_value, std_err = stats.linregress(white_mean_h_max, red_mean_h_max)
     
+    # Calculate the trendline
     trendline_y = slope * white_mean_h_max + intercept
 
+    # Calculate R-squared value
+    r_squared = r_value**2
+
     print(f"Trendline equation: y = {slope:.4f}x + {intercept:.4f}")
+    print(f"R-squared: {r_squared:.4f}")
 
     plt.figure(figsize=(8, 6))
     
@@ -27,7 +32,7 @@ def create_scatter_plot(csv_file):
 
     plt.errorbar(white_mean_h_max, red_mean_h_max, 
                  xerr=white_uncertainty, yerr=red_uncertainty, 
-                 fmt='o', ecolor='lightgray', linestyle='None', capsize=5, elinewidth=1)
+                 fmt='o', ecolor='steelblue', linestyle='None', capsize=5, elinewidth=1)
 
     plt.plot(white_mean_h_max, trendline_y, color='gray', linestyle='-', linewidth=1.5, label='Trendline')
 
