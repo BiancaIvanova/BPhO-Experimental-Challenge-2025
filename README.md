@@ -37,7 +37,7 @@ The experimental setup includes:
 
 The experiment aimed to replicate the gravitational assist slingshot effect by comparing the rebound height of the tennis ball after collisions with the football.
 
-## Matlab Simulations
+## MATLAB Simulations
 
 Simulations were conducted in MATLAB to predict the behavior of the system. These simulations served as a comparison for experimental results, providing insight into the expected energy transfer and rebound heights for the tennis ball.
 
