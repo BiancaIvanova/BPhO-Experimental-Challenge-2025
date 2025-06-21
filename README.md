@@ -1,7 +1,7 @@
 # A One-Dimensional Model of the Gravitational Assist Slingshot Effect: An Experimental Study
 Bianca Ivanova, Josh Parker, Edward Kim | Sutton Grammar School
 
-**Winner of the Silver Award at the BPhO Annual Awards 2025**
+**Winner of the Silver Award at the BPhO Annual Awards 2025 at The Royal Society**
 
 _November 2024 - January 2025_
 
